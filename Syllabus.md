@@ -105,7 +105,6 @@ We remain under pandemic conditions and expect to be in this state for the entir
 I may be very strict with the required precautions while in the classroom. Please make sure you are in compliance otherwise I will ask you to leave the building immediately.
 
 
-
 ### Calendar of Material
 
 The following topics are approximately in the order we will cover them as many are concepts that will build on previous work. We may make modifications to the topics as the course materials develop, and we will devote varying amounts of time to each topic, based on interest and capacity.
@@ -113,7 +112,7 @@ The following topics are approximately in the order we will cover them as many a
 | Date     | Topic                                      |
 | :------- | :----------------------------------------- |
 | M Aug 23 | Course Introduction                        |
-| M Aug 30 |                                            |  
+| M Aug 30 | Class Canceled (Hurricane Ida)             |  
 | M Sept 6 | No Class (Labor Day)                       |
 | M Sept 13|                      |
 | M Sept 20|                      |
