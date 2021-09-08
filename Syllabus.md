@@ -114,15 +114,15 @@ The following topics are approximately in the order we will cover them as many a
 | M Aug 23 | Course Introduction                        |
 | M Aug 30 | Class Canceled (Hurricane Ida)             |  
 | M Sept 6 | No Class (Labor Day)                       |
-| M Sept 13|                      |
-| M Sept 20|                      |
-| M Sept 27|                      |
-| M Oct 4  |                      |
-| M Oct 11 | TBD (Midway away)                    |
-| M Oct 18 |                      |
-| M Oct 25 |                      |
-| M Nov 1  |                      |
-| M Nov 8  |                      |
-| M Nov 15 |                      |
-| M Nov 22 |                      |
-| M Nov 29 |                      |
+| M Sept 13| Intro to `ggplot2`                         |
+| M Sept 20| Overview of `geoms`                        |
+| M Sept 27| Themes                                     |
+| M Oct 4  | Colors                                     |
+| M Oct 11 | TBD (Midway away)                          |
+| M Oct 18 | Layouts                                    |
+| M Oct 25 | Maps                                       |
+| M Nov 1  | Time Series (and Gantt Charts)             |
+| M Nov 8  | Other Packages                             |
+| M Nov 15 | Animations                                 |
+| M Nov 22 | Reverse Engineer a Plot                    |
+| M Nov 29 | Reverse Engineer a Plot                    |
