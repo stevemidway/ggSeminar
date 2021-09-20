@@ -506,3 +506,31 @@ ggplot(SpeciesArea, aes(area = Species, fill = Species,
 ```
 
 ![](02_geoms_files/figure-gfm/unnamed-chunk-23-1.png)<!-- -->
+
+### Assignment 1
+
+For assignment 1, you need to make 4 figures. Follow the prompts below.
+Note that the prompts are somewhat vague because I expect you to do some
+exploration in your plotting. In other words, I am not looking for the
+same figure from each student, but rather different variations from each
+student. Please include each figure with a descriptive figure caption.
+You do not need to add explanatory text to answer the question, but feel
+free to make elaborate figure labels. Please do this work in R Markdown,
+if you are able, and submit via email to me by 9am Friday September 24.
+
+1.  Use the `BirdNest` data to plot `location` and `Nesttype` in a way
+    you think is clearest. Note that you are allowed to manipulate the
+    data and do not need to plot raw data. For example, while we are not
+    all ornithologists, you may think that a bridge and a building are
+    the same thing, because they are man made structures.
+
+2.  Using any variable you would like and manipulating the data if you
+    want, please visualize some aspect of the `BirdNest` data using a
+    distributional geometry.
+
+3.  Make a scatterplot of any two continuous variables in the `BirdNest`
+    data using at least one aesthetic to add information from another
+    variable.
+
+4.  Use any R dataset you would like to show some “parts-of-a-whole”
+    visualization (e.g., treemap, mosaic plot).
