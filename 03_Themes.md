@@ -247,3 +247,4 @@ one-time option to do so.
 -   Prepare a “publication ready” version of this figure in which all
     labels are correct and readable, the best geom is used, and other
     figure and thematic elements are maximally effective.
+-   Email the revised figure to me by 9am Friday, October 1
