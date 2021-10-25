@@ -253,7 +253,8 @@ plot_usmap(data = statepop, values = "pop_2015") +
                      labels = c("5 million", "20 million", "35 million")) +
   theme(panel.background = element_rect(color = "black", fill = "lightblue"),
         legend.title = element_text(size=12,face="bold"),
-        legend.text = element_text(size=12)) +
+        legend.text = element_text(size=12),
+        legend.position = "right") +
   ggtitle("Population by US State")
 ```
 
