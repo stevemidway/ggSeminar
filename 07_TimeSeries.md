@@ -9,10 +9,10 @@ In a way, time series are not all that different from plotting other
 data types. If any measure of time occurs along the *x*-axis, it can be
 called time series. This lesson will not instruct you on how to analyze
 time series data, but will provide you with some approaches to
-displaying time series data, drawn primarily from the `ggtimeseries`
+displaying time series data, drawn primarily from the `ggTimeSeries`
 package and tutorial.
 
-First, install `ggtimeseries` and some other libraries we will need
+First, install `ggTimeSeries` and some other libraries we will need.
 
 ``` r
 devtools::install_github('Ather-Energy/ggTimeSeries')
@@ -21,7 +21,7 @@ library(tidyverse)
 library(data.table)
 ```
 
-`ggtimeseries` reviews several geoms that provide alternatives to
+`ggTimeSeries` reviews several geoms that provide alternatives to
 `geom_line()`, which is a trusted geom for visualizing time series but
 perhaps not always the only tool you want.
 
@@ -41,9 +41,9 @@ version of this plot would relabel the x-axis with month and year. But
 nevertheless, you can see how `geom_line()` can do quick and dirty work
 for time series (or time-series-like) data.
 
-Back to `ggtimeseries`…
+Back to `ggTimeSeries`…
 
-(To replicate the `ggtimeseries` tutorial, let’s define the theme.)
+(To replicate the `ggTimeSeries` tutorial, let’s define the theme.)
 
 ``` r
 minimalTheme = theme_set(theme_bw(12))
